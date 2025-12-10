@@ -34,8 +34,6 @@ and operators while parsing and evaluating expressions, without bringing in any 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 Add more operators and functions, such as exponentiation, unary minus, and common math functions (for example, square root).
 
 Improve error messages to be more descriptive and, if possible, indicate where in the expression the error occurred.
